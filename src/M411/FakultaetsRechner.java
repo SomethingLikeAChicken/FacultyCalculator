@@ -8,11 +8,19 @@ public class FakultaetsRechner {
             return zahl * BerechneRekursion(zahl -1);
         }
     }
-    public long BerechneSchleife(long zahl){
-        long result = 1;
-        for(int i = 1; i <= zahl; i ++){
-            result = result * i;
-        }
-        return result;
-    }
-}
+/*
+
+
+             /'._     _,
+             \   ;__.'  }
+         (`-._;-" _.--.}'
+         /_'    /`    _}
+           `.   \_._.; 
+             '-.__ /   
+              _/  `\    
+             ^`   ^`
+
+   Coded by SomethingLikeAChicken
+
+
+*/
